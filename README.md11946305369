@@ -1,5 +1,9 @@
-# 📊 Free Fire UID Info API
-
+11946305369 # 📊 Free Fire UID Info API
+movement speed 
+free diamonds 
+free spinning 
+smart throw
+accurate headshot
 ## 📝 Description
 
 This API allows you to **retrieve detailed information about a Free Fire account** using its `UID`. It provides data such as level, rank, guild information, credit score, profile, social preferences, and much more.
